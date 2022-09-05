@@ -1,0 +1,15 @@
+#amountForm {
+    margin-top: 30%;
+    font-size: 40px;
+    text-align: center;
+}
+
+#amountInput, #peepsInput {
+    width: 20%;
+    font-size: 80%;
+    text-align:right;
+    border: none;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    border: 1px dotted rgb(15, 102, 153);
+}
